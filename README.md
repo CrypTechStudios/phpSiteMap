@@ -8,6 +8,7 @@ RWSDev Team
 
 ## Usage
 1) Upload sitemap.php to your site.
+
 2) Go to: www.yoursite.com/sitemap.php?domain=exmaple.com
    where exmaple.com = domain you want map */
 
