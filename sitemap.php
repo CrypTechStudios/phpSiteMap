@@ -1,5 +1,5 @@
 <?php
-// Crawler & Search utility for Sec.Gov pools
+// Crawler & Search utility
 // Version 1.0
 // Copyright 2010 - RazorWire Solutions, Inc.
 // All Rights Reserved
